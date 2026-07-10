@@ -1,0 +1,13 @@
+requests
+pandas
+openpyxl
+sqlalchemy
+psycopg2-binary
+python-dotenv
+beautifulsoup4
+lxml
+xgboost
+shap
+apscheduler
+dash
+dash-bootstrap-components
